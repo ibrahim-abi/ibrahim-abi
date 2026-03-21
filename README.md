@@ -1,21 +1,150 @@
-# 💫 About Me:
-# 👋 Hi, I'm Muhammad Ibrahim<br><br>🚀 **Software Engineer | Full Stack Developer | AI-Focused MSc Student**  <br>💻 **ASP.NET Core • React • C# • Python • Desktop & Web Systems**  <br>📍 Berlin / Cottbus, Germany  <br><br>I’m a **results-driven Full Stack Software Engineer** with **6+ years of hands-on experience** building **production-grade systems** for **eCommerce, logistics, inventory management, and enterprise platforms**.<br><br>I specialize in **designing core product engines**, scalable APIs, modern web UIs, and **desktop-based multi-system applications**.  <br>Currently pursuing an **MSc in Artificial Intelligence** while working on real-world systems and advanced engineering projects.<br><br>---<br><br>## 🧠 What I Do Best<br><br>- 🏗 **Build Core Product Engines** (not just CRUD apps)<br>- ⚙️ Design **scalable backend architectures**<br>- 🖥 Develop **enterprise desktop systems** (WPF & WinForms)<br>- 🌐 Create **modern web apps** with React & ASP.NET Core<br>- 📦 Engineer **eCommerce platforms & inventory systems**<br>- 🔐 Write **secure, production-ready APIs**<br>- 🚀 Improve performance, scalability, and developer experience<br><br>---<br><br>## 🏢 Professional Experience<br><br>### 🔹 Freelance Full Stack Developer (Self-Employed)<br>**Feb 2020 – Present | Remote**<br><br>- Delivered **production-ready applications** for startups and businesses<br>- Designed **backend architectures**, APIs, and database schemas<br>- Built **custom inventory systems**, reporting tools, and admin panels<br>- Worked across **web, backend, and desktop environments**<br>- Focused on **scalability, maintainability, and performance**<br><br>**Tech Stack:**  <br>`ASP.NET Core` `React` `Node.js` `C#` `SQL Server` `PostgreSQL` `Docker` `CI/CD`<br><br>---<br><br>### 🔹 Software Engineer – BariTechSol<br>**Jan 2025 – Mar 2025 | Karachi, Pakistan**<br><br>- Led development on **logistics & global shipping platforms**<br>- Integrated **ShipEngine multi-carrier APIs**, increasing shipment throughput by ~30%<br>- Reduced manual tracking by ~20% using backend & frontend optimizations<br>- Improved system scalability & reliability by ~25–30%<br>- Collaborated with **Auctane / ShipEngine teams**<br>- Built **modular, reusable components** for faster delivery<br><br>**Tech Stack:**  <br>`ASP.NET Core` `React` `TypeScript` `REST APIs` `CI/CD`<br><br>---<br><br>### 🔹 Associate Software Engineer – BariTechSol<br>**Jul 2023 – Dec 2024 | Karachi, Pakistan**<br><br>- Improved international shipping workflows<br>- Enhanced platform responsiveness by ~25%<br>- Reduced deployment issues via refactoring and CI/CD improvements<br>- Built clean, reusable UI components<br>- Contributed to higher user satisfaction & fewer delays<br><br>---<br><br>## 🧩 Core Projects & Systems<br><br>### 🛒 DarkSite — eCommerce Core Engine<br>**(C# Backend + React Frontend)**<br><br>> A **core-level eCommerce engine**, not a simple storefront.<br><br>**Key Features:**<br>- Modular product, cart, order & payment architecture<br>- Scalable ASP.NET Core backend<br>- Secure authentication & role-based access<br>- React-based modern UI<br>- Designed for **extension & customization**<br><br>**Architecture Highlights:**<br>- Clean Architecture / Layered Design<br>- Domain-driven core modules<br>- RESTful APIs<br>- Database-agnostic design<br><br>---<br><br>### 🏬 Inventory Management Desktop System<br>**(WPF + Windows Forms | C#)**<br><br>> A **desktop-based multi-system inventory & business management platform**<br><br>**Capabilities:**<br>- Inventory tracking & stock control<br>- Ledger & transaction management<br>- Multi-user desktop environment<br>- Reporting & business analytics<br>- Optimized for **offline & enterprise use**<br><br>**Technologies:**<br>- WPF (modern UI)<br>- Windows Forms (legacy modules)<br>- SQL Server<br>- Object-Oriented Design<br><br>---<br><br>### 📦 Smart & Intelligent Inventory System<br>**AI-Driven Inventory Optimization**<br><br>- Predicts upcoming sales trends<br>- Automatically adjusts stock levels<br>- Reduces overstock & shortages<br>- Built using **AI-driven analytics**<br>- Integrated with backend APIs & CI/CD<br><br>---<br><br>## 🧰 Tech Stack<br><br>### 💻 Programming Languages<br>- C#<br>- JavaScript / TypeScript<br>- Python<br><br>### 🌐 Frontend<br>- React<br>- Angular<br>- Blazor<br>- Tailwind CSS<br>- Material UI<br>- Vite<br><br>### ⚙️ Backend<br>- ASP.NET Core<br>- .NET Framework<br>- Node.js<br>- REST APIs<br><br>### 🖥 Desktop<br>- WPF<br>- Windows Forms<br><br>### 🗄 Databases<br>- SQL Server<br>- PostgreSQL<br>- MySQL<br>- MongoDB<br>- Firebase<br><br>### ☁️ Cloud & DevOps<br>- Docker<br>- AWS<br>- Azure<br>- CI/CD (GitHub Actions, Jenkins, TeamCity)<br><br>### 🛠 Tools<br>- Git & GitHub<br>- Visual Studio<br>- VS Code<br>- Jira, Confluence<br>- Linux<br><br>---<br><br>## 🎓 Education<br><br>🎓 **MSc in Artificial Intelligence**  <br>Brandenburg University of Technology, Germany *(2025 – Present)*<br><br>🎓 **Bachelor of Computer Science (Software Engineering)**  <br>Karachi Institute of Economics & Technology *(2019 – 2024)*<br><br>---<br><br>## 🌍 Languages<br><br>- 🇩🇪 German (A2 – In Progress)<br>- 🇬🇧 English (C1 – Fluent)<br>- 🇵🇰 Urdu (Native)<br><br>---<br><br>## 📫 Connect With Me<br><br>- 💼 **LinkedIn:** https://linkedin.com/in/ibrahim-abi  <br>- 📧 **Email:** ibrahim.abi037@gmail.com  <br>- 🧑‍💻 **GitHub:** https://github.com/ibrahim-abi  <br><br>---<br><br>## 🚀 Final Note<br><br>I don’t just build applications —  <br>I **engineer systems**, **design product cores**, and **solve real business problems** with clean, scalable code.<br><br>Let’s build something solid.
+# 💫 About Me
 
+Hi, I'm **Muhammad Ibrahim**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-abi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibrahim.abi037@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ibrahim-abi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ibrahim-abi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-abi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Software Engineer • Full Stack Developer • AI MSc Student  
+Berlin / Cottbus, Germany  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ibrahim-abi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I’m a full stack engineer with 6+ years of experience building production-grade systems across eCommerce, logistics, inventory management, and enterprise platforms.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ibrahim-abi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I focus on designing scalable backend systems, clean architectures, and high-performance applications — not just CRUD apps, but real product engines.
+
+Currently pursuing an MSc in Artificial Intelligence while working on advanced real-world systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ibrahim-abi&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Core Expertise
+
+- Building core product engines & scalable systems  
+- Backend architecture design (Clean Architecture, DDD)  
+- Enterprise desktop applications (WPF / WinForms)  
+- Modern web development (React + ASP.NET Core)  
+- Secure, production-ready APIs  
+- Performance optimization & scalability  
+
+---
+
+## 🏢 Experience
+
+### Freelance Full Stack Developer  
+Feb 2020 – Present | Remote  
+
+- Delivered production-ready applications for startups & businesses  
+- Designed backend architectures, APIs, and database systems  
+- Built inventory systems, admin panels, and reporting tools  
+- Worked across web, backend, and desktop environments  
+
+**Tech:** ASP.NET Core • React • Node.js • C# • SQL • Docker • CI/CD  
+
+---
+
+### Software Engineer — BariTechSol  
+Jan 2025 – Mar 2025 | Karachi  
+
+- Led development of logistics & shipping platforms  
+- Integrated ShipEngine APIs → increased throughput by ~30%  
+- Reduced manual tracking by ~20%  
+- Improved scalability & reliability by 25–30%  
+
+**Tech:** ASP.NET Core • React • TypeScript • REST APIs  
+
+---
+
+### Associate Software Engineer — BariTechSol  
+Jul 2023 – Dec 2024  
+
+- Improved international shipping workflows  
+- Enhanced system performance by ~25%  
+- Reduced deployment issues via refactoring & CI/CD  
+
+---
+
+## 🧩 Projects
+
+### DarkSite — eCommerce Engine  
+C# Backend + React Frontend  
+
+A modular, scalable eCommerce core system designed for extensibility.
+
+**Highlights**
+- Clean Architecture & domain-driven modules  
+- Secure authentication & role-based access  
+- RESTful API design  
+- Database-agnostic structure  
+
+---
+
+### Inventory Management System  
+WPF + WinForms  
+
+Enterprise desktop system for business operations.
+
+- Inventory tracking & stock control  
+- Ledger & transaction management  
+- Multi-user environment  
+- Reporting & analytics  
+
+---
+
+### Smart Inventory System (AI-Based)
+
+- Predicts sales trends  
+- Optimizes stock automatically  
+- Reduces overstock & shortages  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+C# • JavaScript • TypeScript • Python  
+
+**Frontend**  
+React • Angular • Blazor • Tailwind • MUI  
+
+**Backend**  
+ASP.NET Core • Node.js • REST APIs  
+
+**Desktop**  
+WPF • WinForms  
+
+**Databases**  
+SQL Server • PostgreSQL • MongoDB • Firebase  
+
+**Cloud & DevOps**  
+Docker • AWS • Azure • CI/CD  
+
+**Tools**  
+Git • Visual Studio • VS Code • Linux  
+
+---
+
+## 🎓 Education
+
+MSc Artificial Intelligence  
+Brandenburg University of Technology (2025 – Present)  
+
+Bachelor of Computer Science  
+Karachi Institute of Economics & Technology (2019 – 2024)  
+
+---
+
+## 🌍 Languages
+
+English (C1)  
+German (A2 – in progress)  
+Urdu (Native)  
+
+---
+
+## 📫 Connect
+
+LinkedIn: https://linkedin.com/in/ibrahim-abi  
+Email: ibrahim.abi037@gmail.com  
+GitHub: https://github.com/ibrahim-abi  
+
+---
+
+## 🚀 Final Note
+
+I don’t just build applications — I design systems, engineer scalable architectures, and solve real-world problems with clean, maintainable code.
